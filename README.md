@@ -1,7 +1,6 @@
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jiseok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=80&center=true&vCenter=true&width=800&height=200&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jiseok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)---
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonjiseokk%2Fhit-counter&count_bg=%239D9ED2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
