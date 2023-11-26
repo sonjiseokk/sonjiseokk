@@ -1,10 +1,9 @@
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=80&center=true&vCenter=true&width=800&height=200&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jiseok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=80&center=true&vCenter=true&width=800&height=200&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jiseok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+___
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonjiseokk%2Fhit-counter&count_bg=%239D9ED2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jseo_k)](https://solved.ac/jseo_k)
 
 [![Sonjiseokk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjiseokk&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonjiseokk&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
@@ -16,6 +15,11 @@
 
 </div><br>
 
+## ✏️ Program Solving ✏️
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jseo_k)](https://solved.ac/jseo_k)
+
+</div><br>
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
