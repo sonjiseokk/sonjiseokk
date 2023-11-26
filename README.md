@@ -34,13 +34,6 @@ ___
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jseo_k)](https://solved.ac/jseo_k)
 
 ___
-  
-
-## 📞 Contact 📞
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thswltjr11@gmail.com)
-
-___
 ## 🔨 Once I've used 🔨
 
 #### Back-End
