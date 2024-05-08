@@ -18,10 +18,10 @@ ___
 ## 💻 DEV's log 💻
 </br>
 
- <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sonjiseokk&color=E3E3E3A8)](https://velog.io/@sonjiseokk) -->
-<!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jseo-k)](https://github.com/loosie/github-readme-tistory-card) -->
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=jseo-k&theme={insert_theme})](https://jseo-k.tistory.com/)
 
+<!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jseo-k)](https://github.com/loosie/github-readme-tistory-card) -->
+<!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=jseo-k&theme={insert_theme})](https://jseo-k.tistory.com/) -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sonjiseokk&color=E3E3E3A8)](https://velog.io/@sonjiseokk)
   
 ___
 
