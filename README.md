@@ -25,6 +25,18 @@ ___
   
 ___
 
+## 🏆 Achievements 🏆
+<div align="center">
+
+🎖️ **AWS SAA (Solutions Architect Associate) 자격증 취득 (24.12)** 🎖️  
+✨  **삼성청년SW 아카데미 자율프로젝트 우수상 (24.12)** ✨   
+✨ **삼성청년SW 아카데미 특화프로젝트 우수상 (24.10)** ✨  
+
+
+</div>
+
+___
+
 ## ✏️ Program Solving ✏️
 
 </br>
